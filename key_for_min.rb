@@ -12,5 +12,5 @@ def key_for_min_value(hash)
      end
    end
  lowest_key
-end 
-key_for_min_value
+end
+key_for_min_value(mother)
